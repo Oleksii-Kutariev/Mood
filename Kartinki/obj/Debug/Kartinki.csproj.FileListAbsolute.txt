@@ -1,0 +1,22 @@
+D:\Visual Saves\Kartinki\Kartinki\bin\Debug\Kartinki.exe.config
+D:\Visual Saves\Kartinki\Kartinki\bin\Debug\Kartinki.exe
+D:\Visual Saves\Kartinki\Kartinki\bin\Debug\Kartinki.pdb
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.csprojAssemblyReference.cache
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.Form1.resources
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.Properties.Resources.resources
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.csproj.GenerateResource.cache
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.csproj.CoreCompileInputs.cache
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.exe
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.pdb
+D:\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.f2.resources
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\bin\Debug\Kartinki.exe.config
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\bin\Debug\Kartinki.exe
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\bin\Debug\Kartinki.pdb
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.csprojAssemblyReference.cache
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.f2.resources
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.Form1.resources
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.Properties.Resources.resources
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.csproj.GenerateResource.cache
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.csproj.CoreCompileInputs.cache
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.exe
+D:\BACKUP (OLEKSII)\Visual Saves\Kartinki\Kartinki\obj\Debug\Kartinki.pdb
